@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wordguard"
+version = "0.1.0"
+description = "极简命令行码字断更助手 - 帮你追踪日更、检查存稿、发布前核对"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [{ name = "WordGuard" }]
+license = { text = "MIT" }
+dependencies = []
+
+[project.scripts]
+wordguard = "wordguard.cli:main"
+wg = "wordguard.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["wordguard*"]

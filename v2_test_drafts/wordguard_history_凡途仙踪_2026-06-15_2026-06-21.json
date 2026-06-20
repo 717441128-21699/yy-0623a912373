@@ -1,0 +1,97 @@
+{
+  "book_name": "凡途仙踪",
+  "exported_at": "2026-06-21T00:49:42.915300",
+  "date_range": {
+    "from": "2026-06-15",
+    "to": "2026-06-21"
+  },
+  "daily_target": 3000,
+  "publish_line": 2250,
+  "summary": {
+    "total_days": 7,
+    "total_words": 5971,
+    "days_wrote": 1,
+    "days_reached": 1,
+    "days_zero": 6,
+    "reach_rate_pct": 14.29,
+    "avg_words_on_write_days": 5971.0,
+    "longest_streak": 1,
+    "longest_streak_range": [
+      "2026-06-21",
+      "2026-06-21"
+    ],
+    "current_streak": 1
+  },
+  "records": [
+    {
+      "date": "2026-06-15",
+      "weekday": "Mon",
+      "words": 0,
+      "reached_publish_line": false,
+      "reached_target": false,
+      "chapter_count": 0,
+      "session_count": 0,
+      "baseline_included": false
+    },
+    {
+      "date": "2026-06-16",
+      "weekday": "Tue",
+      "words": 0,
+      "reached_publish_line": false,
+      "reached_target": false,
+      "chapter_count": 0,
+      "session_count": 0,
+      "baseline_included": false
+    },
+    {
+      "date": "2026-06-17",
+      "weekday": "Wed",
+      "words": 0,
+      "reached_publish_line": false,
+      "reached_target": false,
+      "chapter_count": 0,
+      "session_count": 0,
+      "baseline_included": false
+    },
+    {
+      "date": "2026-06-18",
+      "weekday": "Thu",
+      "words": 0,
+      "reached_publish_line": false,
+      "reached_target": false,
+      "chapter_count": 0,
+      "session_count": 0,
+      "baseline_included": false
+    },
+    {
+      "date": "2026-06-19",
+      "weekday": "Fri",
+      "words": 0,
+      "reached_publish_line": false,
+      "reached_target": false,
+      "chapter_count": 0,
+      "session_count": 0,
+      "baseline_included": false
+    },
+    {
+      "date": "2026-06-20",
+      "weekday": "Sat",
+      "words": 0,
+      "reached_publish_line": false,
+      "reached_target": false,
+      "chapter_count": 0,
+      "session_count": 0,
+      "baseline_included": false
+    },
+    {
+      "date": "2026-06-21",
+      "weekday": "Sun",
+      "words": 5971,
+      "reached_publish_line": true,
+      "reached_target": true,
+      "chapter_count": 1,
+      "session_count": 1,
+      "baseline_included": true
+    }
+  ]
+}
